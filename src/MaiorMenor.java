@@ -26,7 +26,7 @@ public class MaiorMenor {
                     maior = valor;
                 }
                 if (valor < menor) {
-                    menor = valor; // Atualiza o menor
+                    menor = valor; 
                 }
             }
         }
